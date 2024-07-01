@@ -1,0 +1,19 @@
+{
+  "name": "tayyabfayyaz931_opp_mybank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tayyab Fayyaz",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.30"
+  }
+}
